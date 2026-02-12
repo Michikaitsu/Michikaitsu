@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm KaiTooast
+# Hi there 👋 I'm Michikaitsu
 
 ### 🐍 Python Developer | 🤖 AI Enthusiast | 📱 App Creator
 
@@ -44,14 +44,14 @@ I build tools that run locally and give users full control. No cloud dependencie
     <td align="center" width="50%">
       <h3>🌌 I.R.I.S.</h3>
       <p>Local-first AI image generation engine. No cloud, no accounts, no telemetry. Runs entirely on your hardware.</p>
-      <a href="https://github.com/KaiTooast/iris">
+      <a href="https://github.com/Michikaitsu/iris">
         <img src="https://img.shields.io/badge/View_Project-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="I.R.I.S.">
       </a>
     </td>
     <td align="center" width="50%">
       <h3>📱 Wallpaper Scheduler</h3>
       <p>Android app to schedule different wallpapers for different times of day. Material Design 3.</p>
-      <a href="https://github.com/KaiTooast/wallpaper-schedule">
+      <a href="https://github.com/Michikaitsu/wallpaper-schedule">
         <img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=android&logoColor=white" alt="Wallpaper Scheduler">
       </a>
     </td>
@@ -64,14 +64,14 @@ I build tools that run locally and give users full control. No cloud dependencie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaiTooast&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiTooast&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" alt="Top Languages" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=Michikaitsu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="GitHub Stats" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michikaitsu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" alt="Top Languages" height="180">
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaiTooast&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michikaitsu&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)](https://git.io/streak-stats)
 
 </div>
 
@@ -81,12 +81,12 @@ I build tools that run locally and give users full control. No cloud dependencie
 
 ### 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaiTooast)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KaiTooast)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michikaitsu)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Michikaitsu)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/918149823587307580)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KaiTooast&color=a855f7&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Michikaitsu&color=a855f7&style=for-the-badge&label=Profile+Views)
 
 </div>
