@@ -6,8 +6,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/github/stars/KaiTooast?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f)](https://github.com/KaiTooast)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC7DdmXgZY6xBt352O7xME7A?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=YouTube&labelColor=%234b0082&color=%231f1f1f)](https://youtube.com/@KaiTooast)
+[![GitHub](https://img.shields.io/github/stars/Michikaitsu?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f)](https://github.com/Michikaitsu)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC7DdmXgZY6xBt352O7xME7A?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=YouTube&labelColor=%234b0082&color=%231f1f1f)](https://youtube.com/@Michikaitsu)
 
 </div>
 
