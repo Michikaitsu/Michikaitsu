@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Michikaitsu
 
-### 🐍 Python Developer | 🤖 AI Enthusiast | 📱 App Creator
+### 🐍 Python Developer | 🤖 AI Enthusiast
 
 <br>
 
@@ -18,8 +18,8 @@
 I build tools that run locally and give users full control. No cloud dependencies, no telemetry — just software that works for you.
 
 - 🌌 Creator of **I.R.I.S.** — Local-first AI image generation engine
-- 📱 Creator of **Wallpaper Scheduler** — Android app for automated wallpaper changes
-- 🔧 Languages: **Python**, **Java**, **JavaScript**
+- 📊 Creator of **SQLite Studio** — Professional SQLite Database Editor
+- 🔧 Languages: **Python**, **Java**, **JavaScript**, **React**
 
 ---
 
@@ -30,7 +30,6 @@ I build tools that run locally and give users full control. No cloud dependencie
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -49,10 +48,10 @@ I build tools that run locally and give users full control. No cloud dependencie
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>📱 Wallpaper Scheduler</h3>
-      <p>Android app to schedule different wallpapers for different times of day. Material Design 3.</p>
-      <a href="https://github.com/Michikaitsu/wallpaper-schedule">
-        <img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=android&logoColor=white" alt="Wallpaper Scheduler">
+      <h3>📊 SQLite Studio</h3>
+      <p>Professional SQLite Database Editor & Visual Schema Designer.</p>
+      <a href="https://github.com/Michikaitsu/SQLite-Studio">
+        <img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=windows11&logoColor=white" alt="SQLite Studio">
       </a>
     </td>
   </tr>
@@ -61,13 +60,6 @@ I build tools that run locally and give users full control. No cloud dependencie
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Michikaitsu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michikaitsu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" alt="Top Languages" height="180">
-
-</div>
 
 <div align="center">
 
