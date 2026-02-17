@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Michikaitsu
 
-### 🐍 Python Developer | 🤖 AI Enthusiast
+### 🐍 Python Developer | 🤖 AI Enthusiast | 🖱️ Vite Dev
 
 <br>
 
