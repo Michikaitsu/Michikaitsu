@@ -6,7 +6,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/github/stars/Michikaitsu?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f)](https://github.com/Michikaitsu)
+[![GitHub](https://img.shields.io/github/stars/KaiInfinityZ?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f)](https://github.com/KaiInfinityZ)
 
 </div>
 
